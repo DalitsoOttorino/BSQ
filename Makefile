@@ -3,7 +3,7 @@
 # make
 # Executable name: rush-02
 NAME	= bsq
-SRCS	= bsq.c
+SRCS	= bsq.c bsq2.c read_map.c read_map2.c grid.c
 
 OBJS	= ${SRCS:.c=.o}
 
